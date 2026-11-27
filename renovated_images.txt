@@ -4,5 +4,5 @@
 
 node:16.15.0-alpine@sha256:bb776153f81d6e931211e3cadd7eef92c811e7086993b685d1f40242d486b9bb,cloudnativek8s/node
 nginx:1.22.0-alpine@sha256:c90af9c78715f71ade64037ca54d3a0c0b6814362594b13643d03c5110085375,cloudnativek8s/nginx
-openpolicyagent/opa:0.41.0@sha256:c34704b307b3114f4c5d743c17b04fc663154245c7e8668eb9dcd49f2b00ca05,cloudnativek8s/opa
-openpolicyagent/opa:0.41.0-debug@sha256:594752f9e6993e3a3f91c615afc7522342d791b9ce5fed5596bf0f8e7ba0f2ce,cloudnativek8s/opa
+openpolicyagent/opa:1.23.0@sha256:48a716fc12029cdb803cfe47c5c889dfd9795745f57769a0c4d619e7487c3aa9,cloudnativek8s/opa
+openpolicyagent/opa:1.23.0-debug@sha256:4759642ccd38aed272c1ccb6aa994ed39f48f9aa0f59aa57ae38b97323d60eb2,cloudnativek8s/opa
